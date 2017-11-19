@@ -217,5 +217,12 @@ body, #slider, .wrap, .slide-content{
       font-size: 15px;
       color: #fff;
     }
+    #arrow-left{
+      border-width: 15px 20px 15px 0;
+    }
+
+    #arrow-right{
+      border-width: 15px 0 15px 20px;
+    }
   }
 
